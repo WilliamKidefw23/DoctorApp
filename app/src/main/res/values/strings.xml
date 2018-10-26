@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">DoctorApp</string>
+    <string name="navigation_drawer_open">Abrir la navegacion</string>
+    <string name="navigation_drawer_close">Cerrar la navegacion</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">prueba@gmail.com</string>
+    <string name="nav_header_desc">Cabecera Navegacion</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="title_activity_login">Login Doctor</string>
+
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Loguearte o Registrarse</string>
+    <string name="action_sign_in_short">Loguearte</string>
+    <string name="error_invalid_email">Este correo es invalido</string>
+    <string name="error_invalid_password">Esta contraseña es corta</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+
+    <!-- Form Login-->
+    <string name="login_activity_logIn">Loguearte</string>
+    <string name="login_activity_register">Registrarse</string>
+
+    <!-- Dialog Register-->
+    <string name="register_title">Registro</string>
+    <string name="register_accept">Aceptar</string>
+    <string name="register_message">Por favor, use un correo para registrarse</string>
+    <string name="register_succesful">Registro Sastifactorio</string>
+    <string name="register_failed">Registro Fallido</string>
+    <string name="register_cancel">Cancelar</string>
+    <string name="form_register_email">Correo</string>
+    <string name="form_register_password">Contraseña</string>
+    <string name="form_register_name">Nombre</string>
+    <string name="form_register_lastname">Apellidos</string>
+    <string name="form_register_phone">Telefono</string>
+
+    <!-- Dialog Login-->
+    <string name="login_title">Login</string>
+    <string name="login_accept">Aceptar</string>
+    <string name="login_message">Por favor, use un correo para loguearte</string>
+    <string name="login_failed">Login Fallido</string>
+    <string name="login_cancel">Cancelar</string>
+    <string name="form_login_email">Correo</string>
+    <string name="form_login_password">Contraseña</string>
+
+    <!-- Form Map-->
+    <string name="map_fragment_connected">Estas conectado</string>
+    <string name="map_fragment_disconnected">Estas desconectado</string>
+    <string name="map_location_notfound">No se pudo obtener la ubicacion</string>
+
+    <!-- Form Main Fragment-->
+    <string name="main_fragment_name">Nombre</string>
+    <string name="main_fragment_lastname">Apellido</string>
+    <string name="main_fragment_phone">Telefono</string>
+
+</resources>
